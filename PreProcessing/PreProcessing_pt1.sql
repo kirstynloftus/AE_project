@@ -3,6 +3,7 @@ SELECT * FROM dbo.ae_df
 ALTER TABLE ae_df
 DROP COLUMN primarysource_literaturereference, authoritynumb; -- columns definitely not necessary for our purposes
 
+-- counting frequency of values in each column
 DECLARE @sql NVARCHAR(MAX)
 
 SET @sql = ''

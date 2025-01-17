@@ -19,6 +19,6 @@ and other methods to predict the likelihood of adverse events and uncover insigh
 Feel free to suggest improvements. If you have any ideas, open an issue, and I'll be happy to collaborate.
 
 ## License
-This project is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license. 
-You are free to view and suggest improvements to this project, but you may not use it for commercial purposes or redistribute it in any form.
+This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. You are free to view and suggest improvements to this project, but you may not use it for commercial purposes, modify it, or redistribute it in any form.
+
 

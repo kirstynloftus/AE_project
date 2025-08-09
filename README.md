@@ -1,7 +1,7 @@
 # Adverse Event Risk Analysis
 ## Overview
 This project involves extracting and analyzing FDA Adverse Event (AE) reports to identify patterns and predict which demographics are more at risk of experiencing severe 
-adverse events. The goal is to develop a data pipeline for ongoing analysis, utilizing machine learning techniques such as Logistic Regression, k-Nearest Neighbors (kNN), 
+adverse events. The goal is to perform a comparative analysis of machine learning techniques such as Logistic Regression, k-Nearest Neighbors (kNN), 
 and other methods to predict the likelihood of adverse events and uncover insights about at-risk populations.
 
 ## Project Status  

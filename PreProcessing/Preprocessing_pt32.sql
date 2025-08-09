@@ -15,7 +15,8 @@ WHERE TABLE_NAME = 'ae_data';
 EXEC sp_executesql @sql;
 
 --each safetyreportid occurs only once, and no NULLs seem to be present. 
---however, companynumb values do repeat a few times, so i need to investigate this further.
+--however, companynumb values do repeat a few times, so i need to investigate this further (since they're supposed to 
+--be unique for a given event).
 --companynumb	AU-MYLANLABS-2014S1016431	
 --companynumb	CH-ASTRAZENECA-2014SE65535	
 --companynumb	DE-MYLANLABS-2014S1013185	
@@ -26,4 +27,5 @@ EXEC sp_executesql @sql;
 --companynumb	IT-MYLANLABS-2014S1005466	
 --companynumb	GB-WATSON-2014-09951	
 --companynumb	GB-ACTAVIS-2014-05047	
+
 --companynumb	GB-MYLANLABS-2014S1012475	
